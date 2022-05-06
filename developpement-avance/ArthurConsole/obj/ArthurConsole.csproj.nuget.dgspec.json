@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\matthias-console\\matthias-console.csproj": {}
+    "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\ArthurConsole\\ArthurConsole.csproj": {}
   },
   "projects": {
-    "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\matthias-console\\matthias-console.csproj": {
+    "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\ArthurConsole\\ArthurConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\matthias-console\\matthias-console.csproj",
-        "projectName": "matthias-console",
-        "projectPath": "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\matthias-console\\matthias-console.csproj",
+        "projectUniqueName": "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\ArthurConsole\\ArthurConsole.csproj",
+        "projectName": "ArthurConsole",
+        "projectPath": "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\ArthurConsole\\ArthurConsole.csproj",
         "packagesPath": "C:\\Users\\atuvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\matthias-console\\obj\\",
+        "outputPath": "C:\\Devellopement\\Projet .Net Arthur VIGIER\\developpement-avance\\developpement-avance\\developpement-avance\\ArthurConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atuvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
