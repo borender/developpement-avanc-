@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quent\\Documents\\Code\\git\\developpement-avance\\developpement-avance\\matthias-console\\matthias-console.csproj",
-      "projectName": "matthias-console",
-      "projectPath": "C:\\Users\\quent\\Documents\\Code\\git\\developpement-avance\\developpement-avance\\matthias-console\\matthias-console.csproj",
+      "projectUniqueName": "C:\\Users\\quent\\Documents\\Code\\git\\developpement-avance\\developpement-avance\\QuentinR-console\\QuentinR-console.csproj",
+      "projectName": "QuentinR-console",
+      "projectPath": "C:\\Users\\quent\\Documents\\Code\\git\\developpement-avance\\developpement-avance\\QuentinR-console\\QuentinR-console.csproj",
       "packagesPath": "C:\\Users\\quent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quent\\Documents\\Code\\git\\developpement-avance\\developpement-avance\\matthias-console\\obj\\",
+      "outputPath": "C:\\Users\\quent\\Documents\\Code\\git\\developpement-avance\\developpement-avance\\QuentinR-console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
