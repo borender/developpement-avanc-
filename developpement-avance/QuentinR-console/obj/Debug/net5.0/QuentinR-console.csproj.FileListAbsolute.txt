@@ -1,0 +1,16 @@
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.csproj.AssemblyReference.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.AssemblyInfoInputs.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.AssemblyInfo.cs
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.csproj.CoreCompileInputs.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\bin\Debug\net5.0\QuentinR-console.exe
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\bin\Debug\net5.0\QuentinR-console.deps.json
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\bin\Debug\net5.0\QuentinR-console.runtimeconfig.json
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\bin\Debug\net5.0\QuentinR-console.runtimeconfig.dev.json
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\bin\Debug\net5.0\QuentinR-console.dll
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\bin\Debug\net5.0\QuentinR-console.pdb
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.dll
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\refint\QuentinR-console.dll
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.pdb
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\QuentinR-console.genruntimeconfig.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\QuentinR-console\obj\Debug\net5.0\ref\QuentinR-console.dll
