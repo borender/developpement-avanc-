@@ -1,0 +1,16 @@
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\bin\Debug\net5.0\Ibrahima-Console.exe
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\bin\Debug\net5.0\Ibrahima-Console.deps.json
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\bin\Debug\net5.0\Ibrahima-Console.runtimeconfig.json
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\bin\Debug\net5.0\Ibrahima-Console.runtimeconfig.dev.json
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\bin\Debug\net5.0\Ibrahima-Console.dll
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\bin\Debug\net5.0\Ibrahima-Console.pdb
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.csproj.AssemblyReference.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.AssemblyInfoInputs.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.AssemblyInfo.cs
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.csproj.CoreCompileInputs.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.dll
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\refint\Ibrahima-Console.dll
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.pdb
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\Ibrahima-Console.genruntimeconfig.cache
+C:\Users\quent\Documents\Code\git\developpement-avance\developpement-avance\Ibrahima-Console\obj\Debug\net5.0\ref\Ibrahima-Console.dll
